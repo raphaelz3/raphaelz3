@@ -1,5 +1,6 @@
 ### Olá, aqui é o Raphael 👋
-🌱 Estou estudando Desenvolvimento WEB
+🌱 Estou focado atualmente em desenvolvimento na linguagem C, na escola 42 São Paulo e também estudo análise e desenvolvimento de sistemas na faculdade descomplica.
+
 <!--
 **raphaelz3/raphaelz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +21,8 @@ Here are some ideas to get you started:
 </a>
   <hr>
   <p> Commit mais recente: </p>
-    <a href="https://github.com/raphaelz3/controle_entregador">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=controle_entregador&theme=react" />
+    <a href="https://github.com/raphaelz3/controle_entregador](https://github.com/raphaelz3/Basecamp_42SP_retry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=Basecamp_42SP_retry&theme=react" />
 </a>
   <hr>
   <div>
