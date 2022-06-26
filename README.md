@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </a>
   <hr>
   <div>
+    <img align="center" alt="c" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="html5" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
     <img align="center" alt="css3" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
