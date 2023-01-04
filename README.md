@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <hr>
   <p> Commit mais recente: </p>
     <a href="https://github.com/raphaelz3/So_Long">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=Basecamp_42SP_retry&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=So_Long&theme=react" />
 </a>
   <hr>
   <div>
