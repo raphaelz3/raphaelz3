@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/raphaelz3">
+<!--<a href="https://github.com/raphaelz3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelz3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelz3&layout=compact&langs_count=7&theme=dark"/>
 </a>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <p> Commit mais recente: </p>
     <a href="https://github.com/raphaelz3/So_Long">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=So_Long&theme=dark" />
-</a>
+</a>-->
   <hr>
   <div>
     <img align="center" alt="c" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
