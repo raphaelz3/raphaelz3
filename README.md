@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelz3&layout=compact&langs_count=7&theme=dark"/>
 </a>
   <hr>
-  <p> Commit mais recente: </p>
+  <p> projeto mais recente: </p>
     <a href="https://github.com/raphaelz3/So_Long">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=So_Long&theme=dark" />
 </a>
