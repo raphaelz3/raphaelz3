@@ -1,5 +1,5 @@
 ### Olá, aqui é o Raphael 👋
-🌱 Estou focado atualmente em desenvolvimento na linguagem C, na escola 42 São Paulo e também estudo análise e desenvolvimento de sistemas na faculdade descomplica.
+🌱 Estudo análise e desenvolvimento de sistemas na faculdade descomplica.
 
 <!--
 **raphaelz3/raphaelz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
