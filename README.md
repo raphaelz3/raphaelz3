@@ -1,5 +1,7 @@
-### Olá, aqui é o Raphael 👋
-🌱 Estudo análise e desenvolvimento de sistemas na faculdade descomplica.
+<p>### Olá, aqui é o Raphael 👋</p>
+<p>✨ Formado em análise e desenvolvimento de sistemas.</p>
+<p>🌱 Atualmente estou buscando me especializar em C#.</p>
+<p>🔭 Atualmente trabalho prestanto suporte a TI, como analista de TI.</p>
 
 <!--
 **raphaelz3/raphaelz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,17 +21,20 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelz3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelz3&layout=compact&langs_count=7&theme=dark"/>
 </a>
-  <hr>
+ <!--  <hr>
   <p> projeto mais recente: </p>
-    <a href="https://github.com/raphaelz3/So_Long">
+   <a href="https://github.com/raphaelz3/So_Long"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelz3&repo=So_Long&theme=dark" />
+  -->
 </a>
   <hr>
   <div>
-    <img align="center" alt="c" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="css3" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="c" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+    
+   <!-- <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="html5" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
-    <img align="center" alt="css3" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
+    <img align="center" alt="css3" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/888/888847.png"> -->
   </div>
   <hr>
   <a href="https://www.linkedin.com/in/raphaelnascimento91/"><img align="center" alt="linkdin" height="45" width="45"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
