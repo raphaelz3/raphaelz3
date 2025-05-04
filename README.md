@@ -1,7 +1,7 @@
-<p>### Olá, aqui é o Raphael 👋</p>
+<p> Olá, mundo! Aqui é o Raphael 👋</p>
 <p>✨ Formado em análise e desenvolvimento de sistemas.</p>
 <p>🌱 Atualmente estou buscando me especializar em C#.</p>
-<p>🔭 Atualmente trabalho prestanto suporte a TI, como analista de TI.</p>
+<p>🔭 Atualmente trabalho prestanto suporte a TI, como analista de TI Pleno.</p>
 
 <!--
 **raphaelz3/raphaelz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
