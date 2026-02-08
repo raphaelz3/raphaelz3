@@ -1,7 +1,7 @@
 <p> Olá, mundo! Aqui é o Raphael 👋</p>
 <p>✨ Formado em análise e desenvolvimento de sistemas.</p>
 <p>🌱 Atualmente estou buscando me especializar em Backend.</p>
-<p>🔭 Atualmente trabalho prestanto suporte a TI, como analista de TI Pleno.</p>
+<p>🔭 Atualmente trabalho prestanto suporte a TI, como analista de TI Pleno. E busco oportunidade na área de desenvolvimento</p>
 
 <!--
 **raphaelz3/raphaelz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/raphaelz3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelz3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelz3&layout=compact&langs_count=7&theme=dark"/>
-</a>
+
  <!--  <hr>
   <p> projeto mais recente: </p>
    <a href="https://github.com/raphaelz3/So_Long"> 
